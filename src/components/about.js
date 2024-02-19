@@ -28,6 +28,9 @@ function About() {
             <p>We believe that energy is the key to improving the quality of human life and protecting the environment.</p>
             <p>We have the vision to become a company providing sustainable energy system solutions that can benefit customers, partners, employees, and society.</p>
             {/* <p>Inersia is a company affiliated with Lab. Energy Management, Engineering Physics ITB, which focuses on innovation and development in the energy field.</p> */}
+            <a className="btn btn-primary" href="/about">
+              Learn More <i className="fas fa-chevron-right"></i>
+            </a>
           </Col>
         </Row>
       </Container>

@@ -3,7 +3,7 @@ import './App.css';
 
 import { Routes, Route } from 'react-router-dom';
 import { Header, Footer } from './components';
-import { Home, DetailPage, LoginPage } from './pages';
+import { Home, AboutPage, LoginPage, NotFound } from './pages';
 
 function App() {
   return (
@@ -11,11 +11,12 @@ function App() {
       <header id="header">
         <Header />
       </header>
-      <main>
+      <main className="hero-block">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/1" element={<DetailPage />} />
+          <Route path="/about" element={<AboutPage />} />
           <Route path="/login" element={<LoginPage />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
       <footer id="footer">

@@ -1,5 +1,6 @@
 import Home from './Home';
-import DetailPage from './DetailPage';
+import NotFound from './NotFound';
+import AboutPage from './AboutPage';
 import LoginPage from './LoginPage';
 
-export { Home, DetailPage, LoginPage };
+export { Home, NotFound, AboutPage, LoginPage };
