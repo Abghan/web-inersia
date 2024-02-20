@@ -6,7 +6,7 @@ var heroData = [
     image: require('../assets/images/img-hero4.jpg'),
     title: 'Driving Progress with INERSIA',
     description: 'Innovative, Effective, Efficient, Reliable and Sustainable Energy Solutions ',
-    link: 'https://www.google.com',
+    link: '/about',
   },
   {
     id: 2,

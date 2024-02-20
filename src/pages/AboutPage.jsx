@@ -1,9 +1,9 @@
-import { About, Teams } from '../components';
+import { Inersia, Teams } from '../components';
 
 function AboutPage() {
   return (
     <>
-      <About />
+      <Inersia />
       <Teams />
     </>
   );
