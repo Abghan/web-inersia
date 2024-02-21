@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-inersia/static/css/main.d7a1c84b.css",
-    "main.js": "/web-inersia/static/js/main.a81c623c.js",
+    "main.js": "/web-inersia/static/js/main.bbdac343.js",
     "static/js/592.56e75c1b.chunk.js": "/web-inersia/static/js/592.56e75c1b.chunk.js",
     "static/media/about1.jpg": "/web-inersia/static/media/about1.b8e5658559330086334e.jpg",
     "static/media/img5.jpg": "/web-inersia/static/media/img5.005ef6648860b053814d.jpg",
@@ -18,11 +18,11 @@
     "static/media/img-hero4.jpg": "/web-inersia/static/media/img-hero4.9d3c4753ec5f17a57f01.jpg",
     "index.html": "/web-inersia/index.html",
     "main.d7a1c84b.css.map": "/web-inersia/static/css/main.d7a1c84b.css.map",
-    "main.a81c623c.js.map": "/web-inersia/static/js/main.a81c623c.js.map",
+    "main.bbdac343.js.map": "/web-inersia/static/js/main.bbdac343.js.map",
     "592.56e75c1b.chunk.js.map": "/web-inersia/static/js/592.56e75c1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a1c84b.css",
-    "static/js/main.a81c623c.js"
+    "static/js/main.bbdac343.js"
   ]
 }
