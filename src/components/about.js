@@ -2,16 +2,11 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-// import ProgressBar from 'react-bootstrap/ProgressBar';
+import { NavButton } from './navButton';
 
-// import img1 from '../assets/images/img1.jpg';
 import about1 from '../assets/images/about1.jpg';
 
 function About() {
-  // const html = 80;
-  // const responsive = 95;
-  // const photoshop = 60;
-
   return (
     <section id="about" className="block about-block">
       <Container fluid>
@@ -28,9 +23,7 @@ function About() {
             <p>We believe that energy is the key to improving the quality of human life and protecting the environment.</p>
             <p>We have the vision to become a company providing sustainable energy system solutions that can benefit customers, partners, employees, and society.</p>
             {/* <p>Inersia is a company affiliated with Lab. Energy Management, Engineering Physics ITB, which focuses on innovation and development in the energy field.</p> */}
-            <a className="btn btn-primary" href="/about">
-              Learn More <i className="fas fa-chevron-right"></i>
-            </a>
+            <NavButton navTo="/about" />
           </Col>
         </Row>
       </Container>

@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import { NavButton } from './navButton';
 
 const servicesData = [
   {
@@ -38,9 +39,7 @@ function Services() {
             );
           })}
           <Col sm={4} className="d-flex justify-content-center align-items-center">
-            <a className="btn btn-primary" href="/services">
-              Learn More <i className="fas fa-chevron-right"></i>
-            </a>
+            <NavButton navTo="/services" />
           </Col>
         </Row>
       </Container>

@@ -79,11 +79,6 @@ function AllServices() {
               </Col>
             );
           })}
-          {/* <Col sm={4} className="d-flex justify-content-center align-items-center">
-            <a className="btn btn-primary" href="/services">
-              Learn More <i className="fas fa-chevron-right"></i>
-            </a>
-          </Col> */}
         </Row>
       </Container>
     </section>

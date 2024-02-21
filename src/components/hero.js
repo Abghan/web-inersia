@@ -1,4 +1,5 @@
 import Carousel from 'react-bootstrap/Carousel';
+import { NavButton } from './navButton';
 
 var heroData = [
   {
@@ -14,7 +15,7 @@ var heroData = [
     title: 'Highlight 2',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!',
-    link: 'https://www.facebook.com',
+    link: '/services',
   },
   {
     id: 3,
@@ -22,7 +23,7 @@ var heroData = [
     title: 'Highlight 3',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!',
-    link: 'https://www.twitter.com',
+    link: 'works',
   },
 ];
 
@@ -37,9 +38,7 @@ function Hero() {
               <Carousel.Caption>
                 <h2>{hero.title}</h2>
                 <p>{hero.description}</p>
-                <a className="btn btn-primary" href={hero.link}>
-                  Learn More <i className="fas fa-chevron-right"></i>
-                </a>
+                <NavButton navTo={hero.link} />
               </Carousel.Caption>
             </Carousel.Item>
           );
