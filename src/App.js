@@ -15,6 +15,8 @@ function App() {
         <main className="hero-block">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/web-inersia" element={<Home />} />
+
             <Route path="/about" element={<AboutPage />} />
             <Route path="/services" element={<ServicesPage />} />
             <Route path="/login" element={<LoginPage />} />
