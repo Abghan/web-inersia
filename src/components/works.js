@@ -105,7 +105,7 @@ function Works() {
             );
           })}
         </Row>
-        <Pagination>{items}</Pagination>
+        {/* <Pagination>{items}</Pagination> */}
       </Container>
     </section>
   );
