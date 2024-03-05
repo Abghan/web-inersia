@@ -29,8 +29,10 @@ function Contact() {
               info@inersia.co.id
             </li>
             <li>
-              <i className="fas fa-phone"></i>
-              +628XX-0000-0000
+              <a href="https://www.linkedin.com/company/pt-inovasi-energi-asia-inersia/">
+                <i className="fas fa-brands fa-linkedin"></i>
+              </a>
+              PT Inovasi Energi Asia (INERSIA)
             </li>
             <li>
               <i className="fas fa-map-marker-alt"></i>

@@ -19,7 +19,7 @@ var heroData = [
   },
   {
     id: 3,
-    image: require('../assets/images/img-hero3.jpg'),
+    image: require('../assets/images/img-hero6.jpg'),
     title: 'Highlight 3',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!',
