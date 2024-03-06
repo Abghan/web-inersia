@@ -1,28 +1,25 @@
 {
   "files": {
-    "main.css": "/web-inersia/static/css/main.d7a1c84b.css",
-    "main.js": "/web-inersia/static/js/main.bbdac343.js",
+    "main.css": "/web-inersia/static/css/main.74b23090.css",
+    "main.js": "/web-inersia/static/js/main.b0306a2d.js",
     "static/js/592.56e75c1b.chunk.js": "/web-inersia/static/js/592.56e75c1b.chunk.js",
     "static/media/about1.jpg": "/web-inersia/static/media/about1.b8e5658559330086334e.jpg",
-    "static/media/img5.jpg": "/web-inersia/static/media/img5.005ef6648860b053814d.jpg",
-    "static/media/img3.jpg": "/web-inersia/static/media/img3.69dad03ac4f397774b6d.jpg",
-    "static/media/img6.jpg": "/web-inersia/static/media/img6.9e08883b1c713f3beae0.jpg",
+    "static/media/img2.png": "/web-inersia/static/media/img2.cb6a61d39a2234260078.png",
     "static/media/bg-testimonial.jpg": "/web-inersia/static/media/bg-testimonial.b26cbabc972e95786cbf.jpg",
-    "static/media/img-hero3.jpg": "/web-inersia/static/media/img-hero3.fc13d76750b1bf1ff1e5.jpg",
-    "static/media/img8.jpg": "/web-inersia/static/media/img8.1066af4480d9f53431f2.jpg",
-    "static/media/img7.jpg": "/web-inersia/static/media/img7.55be95b71959267f1c62.jpg",
-    "static/media/img9.jpg": "/web-inersia/static/media/img9.62fae622b50012e2a9e6.jpg",
-    "static/media/img2.jpg": "/web-inersia/static/media/img2.40a9d29b9f470a11669e.jpg",
-    "static/media/img4.jpg": "/web-inersia/static/media/img4.ba37c27ab5da9b7d7e66.jpg",
+    "static/media/img16.jpg": "/web-inersia/static/media/img16.d3791a97d493cc07d0de.jpg",
     "static/media/img-hero5.jpg": "/web-inersia/static/media/img-hero5.17877ce91d22ee5f5184.jpg",
     "static/media/img-hero4.jpg": "/web-inersia/static/media/img-hero4.9d3c4753ec5f17a57f01.jpg",
+    "static/media/microgrid.png": "/web-inersia/static/media/microgrid.913f48e911781ba01b34.png",
+    "static/media/img1.png": "/web-inersia/static/media/img1.78c5b5bcf2f5fbb97697.png",
+    "static/media/img-hero6.jpg": "/web-inersia/static/media/img-hero6.6d62131b1af2ed27586e.jpg",
+    "static/media/BMS.jpg": "/web-inersia/static/media/BMS.81ae43e963f4228cd653.jpg",
     "index.html": "/web-inersia/index.html",
-    "main.d7a1c84b.css.map": "/web-inersia/static/css/main.d7a1c84b.css.map",
-    "main.bbdac343.js.map": "/web-inersia/static/js/main.bbdac343.js.map",
+    "main.74b23090.css.map": "/web-inersia/static/css/main.74b23090.css.map",
+    "main.b0306a2d.js.map": "/web-inersia/static/js/main.b0306a2d.js.map",
     "592.56e75c1b.chunk.js.map": "/web-inersia/static/js/592.56e75c1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a1c84b.css",
-    "static/js/main.bbdac343.js"
+    "static/css/main.74b23090.css",
+    "static/js/main.b0306a2d.js"
   ]
 }
