@@ -4,5 +4,6 @@ import AboutPage from './AboutPage';
 import LoginPage from './LoginPage';
 import ServicesPage from './ServicesPage';
 import ContactPage from './ContactPage';
+import WorksPage from './WorksPage';
 
-export { Home, NotFound, AboutPage, ServicesPage, ContactPage, LoginPage };
+export { Home, NotFound, AboutPage, ServicesPage, WorksPage, ContactPage, LoginPage };
