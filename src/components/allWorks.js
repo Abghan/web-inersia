@@ -7,15 +7,15 @@ const worksData = [
   {
     id: 1,
     link: 'https://www.google.com',
-    image: require('../assets/images/img1.png'),
-    title: 'Battery Energy Storage System (BESS)',
-    acronym: 'BESS',
+    image: require('../assets/images/img2.png'),
+    title: 'Smart Building',
+    acronym: '',
     content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
   },
   {
     id: 2,
     link: 'https://www.google.com',
-    image: require('../assets/images/img2.png'),
+    image: require('../assets/images/BMS.jpg'),
     title: 'Battery Management System (BMS)',
     acronym: 'BMS',
     content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
@@ -24,10 +24,26 @@ const worksData = [
     id: 3,
     link: 'https://www.google.com',
     image: require('../assets/images/img16.jpg'),
-    title: 'Electrical Energy and Water Information System (ELISA)',
-    acronym: 'ELISA',
+    title: 'SPKL',
+    acronym: 'SPKL',
     content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
   },
+  {
+    id: 4,
+    link: 'https://www.google.com',
+    image: require('../assets/images/microgrid.png'),
+    title: 'Smart Microgrid',
+    acronym: '',
+    content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+  },
+  // {
+  //   id: 5,
+  //   link: 'https://www.google.com',
+  //   image: require('../assets/images/img16.jpg'),
+  //   title: 'Electrical Energy and Water Information System (ELISA)',
+  //   acronym: 'ELISA',
+  //   content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, vel! Accusantium hic fugiat laudantiu earum consequuntur, unde nam et mollitia eaque incidunt sed.',
+  // },
 ];
 
 function AllWorks() {
